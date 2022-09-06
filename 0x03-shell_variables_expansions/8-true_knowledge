@@ -1,2 +1,5 @@
 #!/bin/bash
-printf "%.2f\n"$NUM
+var 1=128
+var 2=TRUEKNOWLEDGE
+sum=$(($var1 + $var2))
+echo $sum
