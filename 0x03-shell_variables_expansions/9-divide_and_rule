@@ -1,2 +1,2 @@
 #!/bin/bash
-num1=POWER num2=DIVIDE ans=$((num1 / num2)) echo $ans
+echo $(($POWER/$DIVIDE))
