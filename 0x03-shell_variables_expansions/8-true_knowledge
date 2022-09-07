@@ -1,2 +1,2 @@
 #!/bin/bash
-var 1=TRUEKNOWLEDGE var 2=128 sum=$(($var1 + $var2)) echo $sum
+echo $((TRUEKNOWLEDGE+128))
